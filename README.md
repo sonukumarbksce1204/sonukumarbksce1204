@@ -18,7 +18,7 @@
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
-- 🌱 Currently studying C++.
+- 🌱 Currently studying Java.
 
 - 📫 Contact me at  **sonukumarbksce1204@gmail.com**
 
